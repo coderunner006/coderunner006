@@ -1,5 +1,5 @@
 <div align="center">
-  <a 
+  <a>
     <img src="md.gif" alt="SVG" />
   </a>
 </div>
