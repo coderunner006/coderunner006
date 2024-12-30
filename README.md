@@ -1,1 +1,1 @@
-[![404 error](md.gif)
+![404 error](md.gif)
